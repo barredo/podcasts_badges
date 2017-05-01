@@ -8,5 +8,6 @@ I just made these super quick with Sketch.
 ![iVoox](https://raw.githubusercontent.com/barredo/podcasts_badges/master/ivoox_es@2x.png "iVoox")
 ![Overcast](https://raw.githubusercontent.com/barredo/podcasts_badges/master/overcast_es@2x.png "Overcast")
 ![Pocket Casts](https://raw.githubusercontent.com/barredo/podcasts_badges/master/pocketcasts_es@2x.png "Pocket Casts")
+![RSS](https://raw.githubusercontent.com/barredo/podcasts_badges/master/rss_es@2x.png "RSS")
 ![Spreaker](https://raw.githubusercontent.com/barredo/podcasts_badges/master/spreaker_es@2x.png "Spreaker")
 ![TapeWrite](https://raw.githubusercontent.com/barredo/podcasts_badges/master/tapewrite_es@2x.png "TapeWrite")

@@ -19,5 +19,5 @@ Prints the image.png file but the browser can chosee @2x or the @3x version if t
 ![Overcast](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/overcast_es@2x.png "Overcast")
 ![Pocket Casts](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/pocketcasts_es@2x.png "Pocket Casts")
 ![RSS](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/rss_es@2x.png "RSS")
-![Spreaker](https://raw.githubusercontent.com/barredo/podcasts_badges/images/master/spreaker_es@2x.png "Spreaker")
+![Spreaker](https://raw.githubusercontent.com/barredo/podcasts_badges/images/master/images/spreaker_es@2x.png "Spreaker")
 ![TapeWrite](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/tapewrite_es@2x.png "TapeWrite")

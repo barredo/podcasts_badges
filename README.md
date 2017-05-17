@@ -1,4 +1,4 @@
-# Bannercillos para podcast
+# Iconos para podcasts
 
 Iconos para podcasting creados con el estilo de la nueva pegatina de Apple Podcast. La original, hecha por Apple, está aquí: https://www.apple.com/itunes/marketing-on-podcasts/identity-guidelines.html
 

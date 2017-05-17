@@ -23,7 +23,7 @@ Muestra el archivo "image.png" pero el navegador puede elegir la versión @2x o 
 ![TapeWrite](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/tapewrite_es@2x.png "TapeWrite")
 
 
-# Podcats Badges
+# Podcast Badges
 
 Podcasts icons created in the style of the Apple Podcasts new badge. The original, made by Apple is over here: https://www.apple.com/itunes/marketing-on-podcasts/identity-guidelines.html
 

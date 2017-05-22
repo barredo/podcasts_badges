@@ -14,7 +14,7 @@ Muestra solo ese archivo.
 ```
 Muestra el archivo "image.png" pero el navegador puede elegir la versión @2x o @3x si el sistema la solicita, lo hará al mismo tamaño pero con mayor calidad.
 
-![Cuonda](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/cuonda_es@2x.png "Cuonda")
+![Cuonda](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/cuonda_es%402x.png "Cuonda")
 ![iVoox](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/ivoox_es@2x.png "iVoox")
 ![Overcast](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/overcast_es@2x.png "Overcast")
 ![Pocket Casts](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/pocketcasts_es@2x.png "Pocket Casts")

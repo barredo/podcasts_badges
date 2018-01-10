@@ -15,7 +15,11 @@ Prints just the file
 ```
 Prints the image.png file but the browser can choose @2x or the @3x version if the system calls for them at the same size, but with more resolution. 
 
+![Apple](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/applepodcasts_en@2x.png "Apple")
+![Stitcher](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/stitcher_en@2x.png "Stitcher")
+![Spotify](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/spotify_en@2x.png "Spotify")
 ![Overcast](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/overcast_en@2x.png "Overcast")
+![Google Play](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/googleplay_en@2x.png "Google Play")
 ![Pocket Casts](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/pocketcasts_en@2x.png "Pocket Casts")
 ![RSS](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/rss_en@2x.png "RSS")
 ![Spreaker](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/spreaker_en%402x.png "Spreaker")
@@ -39,11 +43,15 @@ Muestra solo ese archivo.
 ```
 Muestra el archivo "image.png" pero el navegador puede elegir la versión @2x o @3x si el sistema la solicita, lo hará al mismo tamaño pero con mayor calidad.
 
-![Cuonda](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/cuonda_es%402x.png "Cuonda")
+![Apple](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/applepodcasts_es@2x.png "Apple")
 ![iVoox](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/ivoox_es@2x.png "iVoox")
+![Overcast](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/googleplay_es@2x.png "Google Play")
+![Overcast](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/stitcher_es@2x.png "Stitcher")
+![Overcast](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/spotify_es@2x.png "Spotify")
 ![Overcast](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/overcast_es@2x.png "Overcast")
 ![Pocket Casts](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/pocketcasts_es@2x.png "Pocket Casts")
 ![RSS](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/rss_es@2x.png "RSS")
+![Cuonda](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/cuonda_es%402x.png "Cuonda")
 ![Spreaker](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/spreaker_es%402x.png "Spreaker")
 ![TapeWrite](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/tapewrite_es@2x.png "TapeWrite")
 ![Android](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/android_es@2x.png "Android")

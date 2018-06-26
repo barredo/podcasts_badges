@@ -16,6 +16,7 @@ Prints just the file
 Prints the image.png file but the browser can choose @2x or the @3x version if the system calls for them at the same size, but with more resolution. 
 
 ![Apple](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/applepodcasts_en@2x.png "Apple")
+![Google](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/googlepodcasts_en@2x.png "Google")
 ![Stitcher](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/stitcher_en@2x.png "Stitcher")
 ![Spotify](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/spotify_en@2x.png "Spotify")
 ![Overcast](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/overcast_en@2x.png "Overcast")
@@ -44,6 +45,7 @@ Muestra solo ese archivo.
 Muestra el archivo "image.png" pero el navegador puede elegir la versión @2x o @3x si el sistema la solicita, lo hará al mismo tamaño pero con mayor calidad.
 
 ![Apple](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/applepodcasts_es@2x.png "Apple")
+![Google](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/googlepodcasts_es@2x.png "Google")
 ![iVoox](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/ivoox_es@2x.png "iVoox")
 ![Overcast](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/googleplay_es@2x.png "Google Play")
 ![Overcast](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/stitcher_es@2x.png "Stitcher")

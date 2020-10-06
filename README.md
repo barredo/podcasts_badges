@@ -3,6 +3,16 @@
 
 Podcasts icons created in the style of the Apple Podcasts new badge. The original, made by Apple is over here: https://www.apple.com/itunes/marketing-on-podcasts/identity-guidelines.html
 
+
+## Examples
+
+![Spotify](https://raw.githubusercontent.com/barredo/podcasts_badges/master/badges/spotify_black_en.png "Apple")
+![Castro](https://raw.githubusercontent.com/barredo/podcasts_badges/master/badges/castro_black_en@2x.png "Apple")
+![Apple](https://raw.githubusercontent.com/barredo/podcasts_badges/master/badges/apple_podcasts_black_en@3x.png "Apple")
+
+
+
+
 The files are in 1x, 2x and 3x. You can use them like this:
 
 ```

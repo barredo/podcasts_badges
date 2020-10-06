@@ -3,7 +3,7 @@
 
 Podcasts icons created in the style of the Apple Podcasts new badge. The original, made by Apple is over here: https://www.apple.com/itunes/marketing-on-podcasts/identity-guidelines.html
 
-I just made these super quick with Sketch. The files are in 1x, 2x and 3x. You can use them like this:
+The files are in 1x, 2x and 3x. You can use them like this:
 
 ```
 <img src="image.png"/> 
@@ -15,7 +15,7 @@ Prints just the file
 ```
 Prints the image.png file but the browser can choose @2x or the @3x version if the system calls for them at the same size, but with more resolution. 
 
-![Apple](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/applepodcasts_en@2x.png "Apple")
+![Apple](https://raw.githubusercontent.com/barredo/podcasts_badges/master/badges/apple_podcasts_en@3x.png "Apple")
 ![Google](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/googlepodcasts_en@2x.png "Google")
 ![Stitcher](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/stitcher_en@2x.png "Stitcher")
 ![Spotify](https://raw.githubusercontent.com/barredo/podcasts_badges/master/images/spotify_en@2x.png "Spotify")
@@ -32,7 +32,7 @@ Prints the image.png file but the browser can choose @2x or the @3x version if t
 
 Iconos para podcasting creados con el estilo de la nueva pegatina de Apple Podcast. La original, hecha por Apple, está aquí: https://www.apple.com/itunes/marketing-on-podcasts/identity-guidelines.html
 
-Los he hecho rápido en Sketch. Los archivos están en tamaños 1x, 2x y 3x. Puedes usarlos de esta forma en HTML:
+Los archivos están en tamaños 1x, 2x y 3x. Puedes usarlos de esta forma en HTML:
 
 ```
 <img src="image.png"/> 
